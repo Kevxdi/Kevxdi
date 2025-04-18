@@ -12,7 +12,7 @@
 - 🎓 Estudio Ingeniería de Software con enfoque en desarrollo web.
 - 🔍 Me gusta resolver problemas y crear cosas útiles con código.
 - 📚 Aprendiendo cada día un poco más de **JavaScript** y **Python**.
-- 🌍 Mi meta: ser un desarrollador full-stack pro 🔥
+- 🌍 Mi meta: ser un desarrollador full-stack 
 - 💼 Abierto a prácticas, freelances o vacantes junior.
 
 ---
